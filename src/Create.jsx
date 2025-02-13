@@ -108,7 +108,7 @@ const AddEmployee = () => {
           zIndex: 1000, // To make sure it's on top of other elements
         }}
         onClick={() =>
-          (window.location.href = "https://playful-taffy-8348ff.netlify.app/")
+          (window.location.href = "https://apifetching-rosy.vercel.app/")
         } // Replace with your link
       >
         All Employees List
